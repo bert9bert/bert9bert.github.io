@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "A Comparison of Two Ways to Draw Beta-distributed Random Variables with Integer Parameters Starting with Uniform-distributed Random Variables"
-date:   2014-12-11 21:01:02
+date:   2014-12-14 12:00:00
 categories: [math stat, C, simulation]
 ---
 
