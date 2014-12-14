@@ -45,4 +45,8 @@ Let \\(W=X+Y\\) and \\(Z=X/(X+Y)\\). By computing the joint density of \\(W\\) a
 
 
 ## What is the simulated runtime?
+<img src="{{ site.url }}/assets/posts/2014-12-14-draw-beta-two-ways/fig_onesided.png" height="384" width="384" >
+<img src="{{ site.url }}/assets/posts/2014-12-14-draw-beta-two-ways/fig_onesided_low.png" height="384" width="384" >
+<img src="{{ site.url }}/assets/posts/2014-12-14-draw-beta-two-ways/fig_symmetric.png" height="384" width="384" >
+<img src="{{ site.url }}/assets/posts/2014-12-14-draw-beta-two-ways/fig_symmetric_low.png" height="384" width="384" >
 
